@@ -71,7 +71,7 @@ function UserPost(props: any): ReactElement {
 
 	let tmpLike = false;
 	for (let i = 0; i < props.likes.length; i++) {
-		if (props.likes[i].user_id === userId) {
+		if (props.likes[i].user_id === curUserId) {
 			tmpLike = true;
 			break;
 		}

@@ -213,12 +213,12 @@ function ToolBar(props: any): ReactElement {
 							label={name} />
 					</Link>
 					<IconButton size="large" color="inherit">
-						<Badge badgeContent={1} color="error">
+						<Badge badgeContent={0} color="error">
 							<MailIcon />
 						</Badge>
 					</IconButton>
 					<IconButton size="large" color="inherit">
-						<Badge badgeContent={1} color="error">
+						<Badge badgeContent={0} color="error">
 							<NotificationsIcon />
 						</Badge>
 					</IconButton>
