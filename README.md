@@ -40,12 +40,10 @@
 #### *Frontend:*
 
 ##### Yêu cầu:
-#
 
 *Cần cài đặt sẵn Nodejs*
 
 ##### Cài đặt và chạy Frontend
-#
 
 > `D:\NTN\client> npm i`
 
@@ -94,7 +92,6 @@ Sau khi làm một trong hai cách trên ta có thể truy cập vào trang web 
 #### *Backend:*
 
 ##### Yêu cầu:
-#
 
 *Cần cài đặt sẵn composer*
 
