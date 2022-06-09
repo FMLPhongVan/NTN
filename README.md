@@ -2,10 +2,10 @@
 
 ## Thành viên:
 
-* ***Hoàng Minh Nhật - 20020063***
-* ***Đoàn Duy Tùng - 20020070***
-* ***Nguyễn Ngọc Ninh - 20020263***
-#
+### *Hoàng Minh Nhật - 20020063*
+### *Đoàn Duy Tùng - 20020070*
+### *Nguyễn Ngọc Ninh - 20020263*
+
 ## Mô tả ứng dụng web:
 
 ### Tên ứng dụng: ***Mạng xã hội NTN***
@@ -32,18 +32,18 @@
     - Chỉnh sửa thông tin tài khoản
     - Chức năng nhắn tin
 
-### Cài đặt
-#### Clone repo:
+### Cài đặt:
+### *Clone repo:*
 
 > `git clone https://github.com/FMLPhongVan/NTN.com`
 
-#### *Frontend:*
+### *Frontend:*
 
-##### Yêu cầu:
+#### Yêu cầu:
 
 *Cần cài đặt sẵn Nodejs*
 
-##### Cài đặt và chạy Frontend
+#### Cài đặt và chạy Frontend:
 
 > `D:\NTN\client> npm i`
 
@@ -71,7 +71,11 @@
 *Chú ý:* Ngoài ra, có thể build qua lệnh 
 
 >`D:\NTN\client> npm build` 
+
+*Rồi chạy lệnh:*
+
 >`D:\NTN\client> npm install -g serve`
+
 >`D:\NTN\client> serve -s build`
 
 *Cửa sổ terminal sẽ hiển thị:*
@@ -89,10 +93,10 @@
        
 Sau khi làm một trong hai cách trên ta có thể truy cập vào trang web qua `http://localhost:3000`
 
-#### *Backend:*
+### *Backend:*
 
-##### Yêu cầu:
+#### Yêu cầu:
 
-*Cần cài đặt sẵn composer*
+*Cần cài đặt sẵn Composer*
 
-##### Cài đặt và chạy Backtend
+#### Cài đặt và chạy Backtend:
