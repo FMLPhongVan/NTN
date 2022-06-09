@@ -10,7 +10,7 @@
 
 ### Tên ứng dụng: ***Mạng xã hội NTN***
 
-### Database
+### Database:
 
 ![ntnDB](/docs/ntnDB_EER_diagram.png)
 
