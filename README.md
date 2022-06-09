@@ -5,7 +5,7 @@
 * ***Hoàng Minh Nhật - 20020063***
 * ***Đoàn Duy Tùng - 20020070***
 * ***Nguyễn Ngọc Ninh - 20020263***
-
+#
 ## Mô tả ứng dụng web:
 
 ### Tên ứng dụng: ***Mạng xã hội NTN***
@@ -71,8 +71,8 @@
 *Chú ý:* Ngoài ra, có thể build qua lệnh 
 
 >`D:\NTN\client> npm build` 
-`D:\NTN\client> npm install -g serve`
-`D:\NTN\client> serve -s build`
+>`D:\NTN\client> npm install -g serve`
+>`D:\NTN\client> serve -s build`
 
 *Cửa sổ terminal sẽ hiển thị:*
 
@@ -96,4 +96,3 @@ Sau khi làm một trong hai cách trên ta có thể truy cập vào trang web 
 *Cần cài đặt sẵn composer*
 
 ##### Cài đặt và chạy Backtend
-#
